@@ -1,0 +1,6 @@
+{
+  "name": "Academic Companion",
+  "description": "An intelligent, calm student productivity and learning companion designed to turn semester coursework into structured daily missions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
